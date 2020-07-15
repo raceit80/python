@@ -9,11 +9,11 @@ def main():
 
     words=[]
     for i in range (len(contents)):
-        if contents[i] == ' ':
+        if (contents[i] == ' ' or contents[i] == ','):
             pass
         else:
             words+=contents[i]
-        print (words)
+    print (words)
     f.close()
 
 main()
