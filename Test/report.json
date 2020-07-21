@@ -1,0 +1,43 @@
+{
+    "report":[
+        {
+            "enrollment": "rit2011001",
+            "name": "Julia",
+            "subject":[
+                {
+                    "code": "DSA",
+                    "grade": "A"
+                },
+                {
+                    "code": "MTH",
+                    "grade": "F"
+                },
+                {
+                    "code": "SCI",
+                    "grade": "B"
+                }
+            ]
+        },
+
+        {
+            "enrollment": "rit2011020",
+            "name": "Samantha",
+            "subject":[
+                {
+                    "code": "COM",
+                    "grade": "B"
+                },
+                {
+                    "code": "DSA",
+                    "grade": "F"
+                },
+                {
+                    "code": "ENG",
+                    "grade": "C"
+                }
+            ]
+        }
+
+
+    ]
+}
