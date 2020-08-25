@@ -1,6 +1,14 @@
+<<<<<<< HEAD:hanoi.py
 def move(a,b,i):
     print(f'{i}. Moving a disc from {a} to {b}')
  
+=======
+global_x = []
+
+def move(a,b):
+    print(f'Moving a disc from {a} to {b}')
+    #global_x = global_x + a + b
+>>>>>>> 407fc2911509e277342dd9b90c3be5e13950ce08:Misc/hanoi.py
 
 def hanoi(n, f, h, t):
     iterator = 0
